@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/QuantPricer.dir/main.cpp.o -o QuantPricer  libQuantPricerLib.a 

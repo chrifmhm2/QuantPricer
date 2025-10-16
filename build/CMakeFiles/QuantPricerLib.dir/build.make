@@ -69,10 +69,136 @@ include CMakeFiles/QuantPricerLib.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/QuantPricerLib.dir/flags.make
 
+CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o: ../options/AmericanOption.cpp
+CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o -MF CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/options/AmericanOption.cpp
+
+CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/options/AmericanOption.cpp > CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/options/AmericanOption.cpp -o CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o: ../options/AsianOption.cpp
+CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o -MF CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/options/AsianOption.cpp
+
+CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/options/AsianOption.cpp > CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/options/AsianOption.cpp -o CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o: ../options/BarrierOption.cpp
+CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o -MF CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/options/BarrierOption.cpp
+
+CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/options/BarrierOption.cpp > CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/options/BarrierOption.cpp -o CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o: ../options/DigitalOption.cpp
+CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o -MF CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/options/DigitalOption.cpp
+
+CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/options/DigitalOption.cpp > CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/options/DigitalOption.cpp -o CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o: ../options/EuropeanOption.cpp
+CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o -MF CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/options/EuropeanOption.cpp
+
+CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/options/EuropeanOption.cpp > CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/options/EuropeanOption.cpp -o CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o: ../pricing/AnalyticPricer.cpp
+CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o -MF CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/pricing/AnalyticPricer.cpp
+
+CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/pricing/AnalyticPricer.cpp > CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/pricing/AnalyticPricer.cpp -o CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o: ../pricing/FiniteDifferencePricer.cpp
+CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o -MF CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/pricing/FiniteDifferencePricer.cpp
+
+CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/pricing/FiniteDifferencePricer.cpp > CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/pricing/FiniteDifferencePricer.cpp -o CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o: ../pricing/LongstaffSchwartz.cpp
+CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o -MF CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/pricing/LongstaffSchwartz.cpp
+
+CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/pricing/LongstaffSchwartz.cpp > CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/pricing/LongstaffSchwartz.cpp -o CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.s
+
+CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
+CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o: ../pricing/MonteCarloPricer.cpp
+CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o -MF CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/pricing/MonteCarloPricer.cpp
+
+CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/chrifmhm/personnal_project/QuantPricer/pricing/MonteCarloPricer.cpp > CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.i
+
+CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/chrifmhm/personnal_project/QuantPricer/pricing/MonteCarloPricer.cpp -o CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.s
+
 CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o: ../stochastic_models/CIR.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/CIR.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.i: cmake_force
@@ -86,7 +212,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.s: cmake_force
 CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o: ../stochastic_models/GeometricBrownianMotion.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/GeometricBrownianMotion.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.i: cmake_force
@@ -100,7 +226,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.s: c
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o: ../stochastic_models/Heston.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/Heston.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.i: cmake_force
@@ -114,7 +240,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.s: cmake_force
 CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o: ../stochastic_models/HullWhite.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/HullWhite.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.i: cmake_force
@@ -128,7 +254,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/HullWhite.cpp.s: cmake_force
 CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o: ../stochastic_models/MertonJumpDiffusion.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/MertonJumpDiffusion.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.i: cmake_force
@@ -142,7 +268,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/MertonJumpDiffusion.cpp.s: cmake
 CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o: ../stochastic_models/OrnsteinUhlenbeck.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/OrnsteinUhlenbeck.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.i: cmake_force
@@ -156,7 +282,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/OrnsteinUhlenbeck.cpp.s: cmake_f
 CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o: ../stochastic_models/SABR.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/SABR.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.i: cmake_force
@@ -170,7 +296,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/SABR.cpp.s: cmake_force
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o: ../stochastic_models/Vasicek.cpp
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o -MF CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/stochastic_models/Vasicek.cpp
 
 CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.i: cmake_force
@@ -184,7 +310,7 @@ CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp.s: cmake_force
 CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o: CMakeFiles/QuantPricerLib.dir/flags.make
 CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o: ../utils/RNG.cpp
 CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o: CMakeFiles/QuantPricerLib.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o -MF CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o.d -o CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o -c /home/chrifmhm/personnal_project/QuantPricer/utils/RNG.cpp
 
 CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.i: cmake_force
@@ -197,6 +323,15 @@ CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.s: cmake_force
 
 # Object files for target QuantPricerLib
 QuantPricerLib_OBJECTS = \
+"CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o" \
+"CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o" \
 "CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o" \
 "CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o" \
 "CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o" \
@@ -210,6 +345,15 @@ QuantPricerLib_OBJECTS = \
 # External object files for target QuantPricerLib
 QuantPricerLib_EXTERNAL_OBJECTS =
 
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o
+libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/stochastic_models/CIR.cpp.o
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/stochastic_models/GeometricBrownianMotion.cpp.o
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/stochastic_models/Heston.cpp.o
@@ -221,7 +365,7 @@ libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/stochastic_models/Vasicek.cpp
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/utils/RNG.cpp.o
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/build.make
 libQuantPricerLib.a: CMakeFiles/QuantPricerLib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX static library libQuantPricerLib.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/chrifmhm/personnal_project/QuantPricer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX static library libQuantPricerLib.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/QuantPricerLib.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QuantPricerLib.dir/link.txt --verbose=$(VERBOSE)
 

@@ -166,6 +166,222 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricer.dir/build.make CMakeFiles/QuantPricer.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+options/AmericanOption.o: options/AmericanOption.cpp.o
+.PHONY : options/AmericanOption.o
+
+# target to build an object file
+options/AmericanOption.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.o
+.PHONY : options/AmericanOption.cpp.o
+
+options/AmericanOption.i: options/AmericanOption.cpp.i
+.PHONY : options/AmericanOption.i
+
+# target to preprocess a source file
+options/AmericanOption.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.i
+.PHONY : options/AmericanOption.cpp.i
+
+options/AmericanOption.s: options/AmericanOption.cpp.s
+.PHONY : options/AmericanOption.s
+
+# target to generate assembly for a file
+options/AmericanOption.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AmericanOption.cpp.s
+.PHONY : options/AmericanOption.cpp.s
+
+options/AsianOption.o: options/AsianOption.cpp.o
+.PHONY : options/AsianOption.o
+
+# target to build an object file
+options/AsianOption.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.o
+.PHONY : options/AsianOption.cpp.o
+
+options/AsianOption.i: options/AsianOption.cpp.i
+.PHONY : options/AsianOption.i
+
+# target to preprocess a source file
+options/AsianOption.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.i
+.PHONY : options/AsianOption.cpp.i
+
+options/AsianOption.s: options/AsianOption.cpp.s
+.PHONY : options/AsianOption.s
+
+# target to generate assembly for a file
+options/AsianOption.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/AsianOption.cpp.s
+.PHONY : options/AsianOption.cpp.s
+
+options/BarrierOption.o: options/BarrierOption.cpp.o
+.PHONY : options/BarrierOption.o
+
+# target to build an object file
+options/BarrierOption.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.o
+.PHONY : options/BarrierOption.cpp.o
+
+options/BarrierOption.i: options/BarrierOption.cpp.i
+.PHONY : options/BarrierOption.i
+
+# target to preprocess a source file
+options/BarrierOption.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.i
+.PHONY : options/BarrierOption.cpp.i
+
+options/BarrierOption.s: options/BarrierOption.cpp.s
+.PHONY : options/BarrierOption.s
+
+# target to generate assembly for a file
+options/BarrierOption.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/BarrierOption.cpp.s
+.PHONY : options/BarrierOption.cpp.s
+
+options/DigitalOption.o: options/DigitalOption.cpp.o
+.PHONY : options/DigitalOption.o
+
+# target to build an object file
+options/DigitalOption.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.o
+.PHONY : options/DigitalOption.cpp.o
+
+options/DigitalOption.i: options/DigitalOption.cpp.i
+.PHONY : options/DigitalOption.i
+
+# target to preprocess a source file
+options/DigitalOption.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.i
+.PHONY : options/DigitalOption.cpp.i
+
+options/DigitalOption.s: options/DigitalOption.cpp.s
+.PHONY : options/DigitalOption.s
+
+# target to generate assembly for a file
+options/DigitalOption.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/DigitalOption.cpp.s
+.PHONY : options/DigitalOption.cpp.s
+
+options/EuropeanOption.o: options/EuropeanOption.cpp.o
+.PHONY : options/EuropeanOption.o
+
+# target to build an object file
+options/EuropeanOption.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.o
+.PHONY : options/EuropeanOption.cpp.o
+
+options/EuropeanOption.i: options/EuropeanOption.cpp.i
+.PHONY : options/EuropeanOption.i
+
+# target to preprocess a source file
+options/EuropeanOption.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.i
+.PHONY : options/EuropeanOption.cpp.i
+
+options/EuropeanOption.s: options/EuropeanOption.cpp.s
+.PHONY : options/EuropeanOption.s
+
+# target to generate assembly for a file
+options/EuropeanOption.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/options/EuropeanOption.cpp.s
+.PHONY : options/EuropeanOption.cpp.s
+
+pricing/AnalyticPricer.o: pricing/AnalyticPricer.cpp.o
+.PHONY : pricing/AnalyticPricer.o
+
+# target to build an object file
+pricing/AnalyticPricer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.o
+.PHONY : pricing/AnalyticPricer.cpp.o
+
+pricing/AnalyticPricer.i: pricing/AnalyticPricer.cpp.i
+.PHONY : pricing/AnalyticPricer.i
+
+# target to preprocess a source file
+pricing/AnalyticPricer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.i
+.PHONY : pricing/AnalyticPricer.cpp.i
+
+pricing/AnalyticPricer.s: pricing/AnalyticPricer.cpp.s
+.PHONY : pricing/AnalyticPricer.s
+
+# target to generate assembly for a file
+pricing/AnalyticPricer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/AnalyticPricer.cpp.s
+.PHONY : pricing/AnalyticPricer.cpp.s
+
+pricing/FiniteDifferencePricer.o: pricing/FiniteDifferencePricer.cpp.o
+.PHONY : pricing/FiniteDifferencePricer.o
+
+# target to build an object file
+pricing/FiniteDifferencePricer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.o
+.PHONY : pricing/FiniteDifferencePricer.cpp.o
+
+pricing/FiniteDifferencePricer.i: pricing/FiniteDifferencePricer.cpp.i
+.PHONY : pricing/FiniteDifferencePricer.i
+
+# target to preprocess a source file
+pricing/FiniteDifferencePricer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.i
+.PHONY : pricing/FiniteDifferencePricer.cpp.i
+
+pricing/FiniteDifferencePricer.s: pricing/FiniteDifferencePricer.cpp.s
+.PHONY : pricing/FiniteDifferencePricer.s
+
+# target to generate assembly for a file
+pricing/FiniteDifferencePricer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/FiniteDifferencePricer.cpp.s
+.PHONY : pricing/FiniteDifferencePricer.cpp.s
+
+pricing/LongstaffSchwartz.o: pricing/LongstaffSchwartz.cpp.o
+.PHONY : pricing/LongstaffSchwartz.o
+
+# target to build an object file
+pricing/LongstaffSchwartz.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.o
+.PHONY : pricing/LongstaffSchwartz.cpp.o
+
+pricing/LongstaffSchwartz.i: pricing/LongstaffSchwartz.cpp.i
+.PHONY : pricing/LongstaffSchwartz.i
+
+# target to preprocess a source file
+pricing/LongstaffSchwartz.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.i
+.PHONY : pricing/LongstaffSchwartz.cpp.i
+
+pricing/LongstaffSchwartz.s: pricing/LongstaffSchwartz.cpp.s
+.PHONY : pricing/LongstaffSchwartz.s
+
+# target to generate assembly for a file
+pricing/LongstaffSchwartz.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/LongstaffSchwartz.cpp.s
+.PHONY : pricing/LongstaffSchwartz.cpp.s
+
+pricing/MonteCarloPricer.o: pricing/MonteCarloPricer.cpp.o
+.PHONY : pricing/MonteCarloPricer.o
+
+# target to build an object file
+pricing/MonteCarloPricer.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.o
+.PHONY : pricing/MonteCarloPricer.cpp.o
+
+pricing/MonteCarloPricer.i: pricing/MonteCarloPricer.cpp.i
+.PHONY : pricing/MonteCarloPricer.i
+
+# target to preprocess a source file
+pricing/MonteCarloPricer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.i
+.PHONY : pricing/MonteCarloPricer.cpp.i
+
+pricing/MonteCarloPricer.s: pricing/MonteCarloPricer.cpp.s
+.PHONY : pricing/MonteCarloPricer.s
+
+# target to generate assembly for a file
+pricing/MonteCarloPricer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuantPricerLib.dir/build.make CMakeFiles/QuantPricerLib.dir/pricing/MonteCarloPricer.cpp.s
+.PHONY : pricing/MonteCarloPricer.cpp.s
+
 stochastic_models/CIR.o: stochastic_models/CIR.cpp.o
 .PHONY : stochastic_models/CIR.o
 
@@ -395,6 +611,33 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... options/AmericanOption.o"
+	@echo "... options/AmericanOption.i"
+	@echo "... options/AmericanOption.s"
+	@echo "... options/AsianOption.o"
+	@echo "... options/AsianOption.i"
+	@echo "... options/AsianOption.s"
+	@echo "... options/BarrierOption.o"
+	@echo "... options/BarrierOption.i"
+	@echo "... options/BarrierOption.s"
+	@echo "... options/DigitalOption.o"
+	@echo "... options/DigitalOption.i"
+	@echo "... options/DigitalOption.s"
+	@echo "... options/EuropeanOption.o"
+	@echo "... options/EuropeanOption.i"
+	@echo "... options/EuropeanOption.s"
+	@echo "... pricing/AnalyticPricer.o"
+	@echo "... pricing/AnalyticPricer.i"
+	@echo "... pricing/AnalyticPricer.s"
+	@echo "... pricing/FiniteDifferencePricer.o"
+	@echo "... pricing/FiniteDifferencePricer.i"
+	@echo "... pricing/FiniteDifferencePricer.s"
+	@echo "... pricing/LongstaffSchwartz.o"
+	@echo "... pricing/LongstaffSchwartz.i"
+	@echo "... pricing/LongstaffSchwartz.s"
+	@echo "... pricing/MonteCarloPricer.o"
+	@echo "... pricing/MonteCarloPricer.i"
+	@echo "... pricing/MonteCarloPricer.s"
 	@echo "... stochastic_models/CIR.o"
 	@echo "... stochastic_models/CIR.i"
 	@echo "... stochastic_models/CIR.s"
